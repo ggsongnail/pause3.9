@@ -1,1 +1,1 @@
-FROM registry.k8s.io/pause:3.9
+FROM docker.io/calico/node:v3.28.0
