@@ -1,1 +1,1 @@
-FROM m.daocloud.io/docker.io/sentinel-dashboard:1.8.2
+FROM alibaba/sentinel-dashboard:1.8.2
