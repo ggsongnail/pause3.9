@@ -1,2 +1,1 @@
-# FROM docker.io/calico/kube-controllers:v3.28.0
-FROM sentinel-dashboard:1.8.2
+FROM m.daocloud.io/docker.io/sentinel-dashboard:1.8.2
